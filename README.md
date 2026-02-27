@@ -1,4 +1,3 @@
-PowerBI – Premier League 2018–2019
 ⚽ Premier League 2018–2019 – Data Visualization Project
 
 This project explores the 2018–2019 Premier League season through structured data modeling and interactive visualization using Power BI.
