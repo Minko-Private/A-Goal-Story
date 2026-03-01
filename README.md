@@ -3,7 +3,7 @@ A GOAL STORY
 ⚽ Premier League 2018–2019 – Data Visualization Project
 
 This project explores the 2018–2019 Premier League season through structured data modeling and interactive visualization using Power BI.
-The dashboard is built from two raw Excel datasets: Match data (results and goal timings), Team squad and scoring statistics.
+The dashboard is built from two raw Excel datasets: Match data (date, teams, locations, possesion, xG and goal timings), Team squad and scoring statistics.
 
 The season featured an exceptional title race between Liverpool and Manchester City, which shaped the analytical narrative of the project.
 The dashboard is structured around the following views:
